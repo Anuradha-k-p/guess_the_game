@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.card{
+    width: 200px;
+    height: 200px;
+    background-color: darkcyan;
+    border: 2px solid black;
+}
+a{
+    text-decoration: none;
+}
